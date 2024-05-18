@@ -1,4 +1,4 @@
-# *Dockerization and Local Deployment
+# Dockerization and Local Deployment
 
 - I have installed Docker Desktop in my local to view my Application images and containers locally.
 
