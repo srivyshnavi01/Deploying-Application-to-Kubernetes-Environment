@@ -102,7 +102,7 @@ _Commands used for creating resources_
 
         kubectl get ingress -n smile-app
         NAME            CLASS    HOSTS   ADDRESS                                          
-        ingress-smile   <none>   *       k8s-sampleapp-ingress2-e1d9d1f206-1078327551.us-east-1.
+        ingress-smile   alb       *       k8s-sampleapp-ingress2-e1d9d1f206-1078327551.us-east-1.
                                          elb.amazonaws.com          
         PORTS   AGE
         80      14m
