@@ -24,7 +24,7 @@ WORKDIR /app
 # Copy the application code from the build stage
 COPY --from=builder /app .
 
-# Expose port 5000 to the outside world
+# Expose port 8000 to the outside world
 EXPOSE 8000
 
 # Set the entry point and command to run the Flask application
