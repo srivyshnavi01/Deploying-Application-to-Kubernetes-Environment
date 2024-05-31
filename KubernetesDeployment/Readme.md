@@ -1,4 +1,4 @@
-#  Deployment of an Application in a Production Kubernetes Environment
+#  Deployment of an Application in a Kubernetes Environment
 
 - Here, I have created all the necessary kubernetes resources like Ingress, Service, Deployment, Namespace and pod into a kuberenetes manifest file(sampleapp.yaml) and added my docker image that I  pushed to the docker hub.
 
