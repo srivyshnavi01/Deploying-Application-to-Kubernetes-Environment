@@ -46,9 +46,3 @@ I have used below command to resolve "_no nodes available to schedule pods for c
 
 
 
-_Additional Notes:_
-
-If I had more time, I would have done the below 
-- I would have worked on implementing Metrics for Infrastructure and Application.
-
-- Moreover, I would have implemented Certificates from AWS certifcate Manager to secure my Application.
